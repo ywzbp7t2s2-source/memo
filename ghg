@@ -18,7 +18,7 @@
     <!-- شاشة القفل -->
     <div id="lock" class="lock-screen">
         <div style="font-size: 50px;">🔐</div>
-        <input type="password" id="pass" placeholder="أدخل الرمز السري">
+        <input type="password" id="pass" placeholder="2009">
         <br><br>
         <button onclick="unlock()">فتح الذكريات</button>
     </div>
